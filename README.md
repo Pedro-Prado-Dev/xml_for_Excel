@@ -37,9 +37,3 @@ Contributions are welcome! Feel free to suggest improvements, report bugs, or co
 This project is licensed under the MIT License.
 
 Enjoy seamless XML to Excel conversion for your invoices with this handy Python tool. Simplify your data processing tasks and explore the potential of automation. Happy coding! 💻
-
-## Appointments 📅
-
-- Meet with client at 2 pm on Monday
-- Check-in with team on Wednesday at 10 am
-- Attend project review meeting on Friday at 3 pm
