@@ -1,1 +1,4 @@
 xmltodict
+pandas
+numpy 
+openpyxl
